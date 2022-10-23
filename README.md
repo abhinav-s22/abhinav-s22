@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abhinav-s22
 - 👀 I’m beginner in coding
 - 🌱 I’m currently learning C++
+- 🌱 I’m currently learning FRONT END DEVELOPMENR
 
 
 <!---
